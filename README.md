@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
+![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm YASWANTH G V N S</h1>
 <h3 align="center">Data Analyst 🤞</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
