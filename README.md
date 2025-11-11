@@ -1,15 +1,15 @@
 ![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
 <h1 align="center">Hi 👋, I'm YASWANTH G V N S</h1>
-<h3 align="center">Data Analyst 🤞</h3>
+<h3 align="center">Data Scientist / ML Enginner 🤞</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gvns2111&label=Profile%20views&color=0e75b6&style=flat" alt="gvns2111" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gvnsyaswanth1" target="blank"><img src="https://img.shields.io/twitter/follow/gvnsyaswanth1?logo=twitter&style=for-the-badge" alt="gvnsyaswanth1" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analysis**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **SQL, NUMPY, Python, Pandas**
+- 💬 Ask me about **SQL, Python, EDA, PowerBI, Excel**
 
 - 📫 How to reach me **gunduyaswanth@gmail.com**
 
