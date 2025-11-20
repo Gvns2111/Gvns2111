@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img width="100%" src="https://i.imgur.com/OgKIxL0.png"/>
-
 <h1 align="center">Hi 👋, I'm YASWANTH G V N S</h1>
 <h3 align="center">Data Scientist • ML Engineer • AI Enthusiast</h3>
 
